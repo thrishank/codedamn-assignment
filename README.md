@@ -1,2 +1,0 @@
-- [Learn MongoDB with Node.js](https://codedamn.com/learn/node-mongodb-fundamentals)
-- [Node.js Fundamentals](https://codedamn.com/learn/nodejs-fundamentals)

@@ -1,3 +1,1 @@
-tabs : ["README.md"]
-playground-view: terminal-editor-browser
-
+run-button: node $$file
