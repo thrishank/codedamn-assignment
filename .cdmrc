@@ -1,1 +1,3 @@
+tabs: ["server.js#7:1"]
 run-button: node $$file
+terminals: ['npm install']
