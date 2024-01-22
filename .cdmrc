@@ -1,3 +1,4 @@
-tabs: ["db.js#2:1", "server.js"]
+tabs: [ "server.js"]
 run-button: node $$file
 terminals: ['npm install']
+
