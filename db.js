@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-// connection url
+// update your connection url
 
 // Define schema
 const taskSchema = new mongoose.Schema({
@@ -11,4 +11,4 @@ const taskSchema = new mongoose.Schema({
 
 // Create and export the model
 const Task = mongoose.model("Task", taskSchema);
-module.exports = Task;
+module.exports =  {Task};

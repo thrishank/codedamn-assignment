@@ -1,4 +1,4 @@
-tabs: [ "server.js"]
+tabs: [ "server.js#13:1"]
 run-button: node $$file
-terminals: ['npm install']
+terminals: ['echo update the mongodb connection url', 'npm install']
 
