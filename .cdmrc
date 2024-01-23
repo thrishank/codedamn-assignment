@@ -1,3 +1,2 @@
-tabs: ["server.js"]
-run-button: node $$file
-terminals: ['npm install']
+tabs: ["db.js"]
+run-button: clear && node $$file
