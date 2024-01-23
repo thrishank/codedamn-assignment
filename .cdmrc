@@ -1,3 +1,3 @@
-tabs : ["README.md"]
-playground-view: terminal-editor-browser
-
+playground-view: terminal-editor
+terminals: ['echo welcome the interactive lab']
+browser-link: https://www.youtube.com/watch?v=5QEwqX5U_2M
